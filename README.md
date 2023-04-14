@@ -1,7 +1,7 @@
 # Sentence Detailing and Its Applications
 The repository of the study of "Sentence Detailing and Its Applications" which suggests a new method for data augmentation in Turkish language.
 
-This paper was studied by [Feyza Sahin](https://github.com/feysahin) and [Mehmet Fatih Aamasyali](https://github.com/mfatihamasyali) with the contributions of [Besher Alkurdi](https://github.com/mrbesher).
+This paper was studied by [Feyza Sahin](https://github.com/feysahin) and [Mehmet Fatih Amasyali](https://github.com/mfatihamasyali) with the contributions of [Besher Alkurdi](https://github.com/mrbesher).
 
 ## Dataset
 [TR-News](https://huggingface.co/datasets/batubayk/TR-News)
